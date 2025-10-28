@@ -12,8 +12,6 @@ A simple Restful API with basic CRUD operations for a personal blogging platform
 - **Retrieve a single blog post** by ID (`GET /blogs/<id>`)
 - **Update a blog post** by ID (`PUT /blogs/<id>`)
 - **Delete a blog post** by ID (`DELETE /blogs/<id>`)
-- JSON responses are **pretty-printed** for readability
-- Tags stored as JSON arrays
 - Automatic timestamps for creation and updates
 
 ---
